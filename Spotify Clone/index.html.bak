@@ -7,7 +7,7 @@
         <title>Spotify - Your favourite music is here</title>
         <link rel="stylesheet" href="style.css">
         </head>
-<body style="background-color:red">
+<body>
     <nav>
         <ul>
             <li class="brand"><img src="logo.png" alt="Spotify"> Spotify</li>
